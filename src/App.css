@@ -7,3 +7,9 @@
     grid-template-columns: repeat(20 , 33px);
     grid-template-rows: repeat(20 , 33px);
 }
+
+
+.food{
+    background-color: gold;
+    color: gold;
+}
